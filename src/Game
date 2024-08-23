@@ -1,0 +1,3 @@
+#!/bin/bash
+cd build
+./snake.app/Contents/MacOS/snake || ./BRICK_GAME
